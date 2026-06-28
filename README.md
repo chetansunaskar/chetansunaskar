@@ -24,7 +24,7 @@ Currently exploring Linux device drivers and Embedded Linux build systems.
 
 | Repo | What it demonstrates |
 |---|---|
-| [linux-char-device-driver](https://github.com/chetansunaskar/MPU6050_LINUX_DEVICE_DRIVER) | Loadable kernel module, file_operations, ioctl, tested on Beaglebone Black |
+| [Embedded-Linux-MPU6050-Accelerometer-I2C-Device-Driver](https://github.com/chetansunaskar/MPU6050_LINUX_DEVICE_DRIVER) | Loadable kernel module, file_operations, ioctl, tested on Beaglebone Black |
 | [esp32s3-wifi-ble-coexistence](https://github.com/chetansunaskar/ESP32S3_WIFI_BLE) | FreeRTOS · NimBLE · ESP-IDF · software coexistence 
 ---
 
