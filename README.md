@@ -28,4 +28,4 @@ Currently exploring Linux device drivers and Embedded Linux build systems.
 | [esp32s3-wifi-ble-coexistence](https://github.com/chetansunaskar/ESP32S3_WIFI_BLE) | FreeRTOS · NimBLE · ESP-IDF · software coexistence 
 ---
 
-📍 Pune, India &nbsp;|&nbsp; 📧 your.email@domain.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+📍 Pune, India; 📧 chetansunaskar@gmail.com; 💼 [LinkedIn](https://www.linkedin.com/in/chetan-sunaskar)
