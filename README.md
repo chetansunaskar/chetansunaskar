@@ -26,6 +26,7 @@ Currently exploring Linux device drivers and Embedded Linux build systems.
 |---|---|
 | [Embedded-Linux-MPU6050-Accelerometer-I2C-Device-Driver](https://github.com/chetansunaskar/MPU6050_LINUX_DEVICE_DRIVER) | Loadable kernel module, file_operations, ioctl, tested on Beaglebone Black |
 | [esp32s3-wifi-ble-coexistence](https://github.com/chetansunaskar/ESP32S3_WIFI_BLE) | FreeRTOS · NimBLE · ESP-IDF · software coexistence 
+| [ECUS- EMBEDDED CAN UDS DIAGNOSTIC SYSTEM](https://github.com/chetansunaskar/ECUS-Embedded-CAN-UDS-Diagnostic-Stack) | Embedded C  · MISRA C STANDARDS  · CAN  · UDS  
 ---
 
 📍 Pune, India; 📧 chetansunaskar@gmail.com; 💼 [LinkedIn](https://www.linkedin.com/in/chetan-sunaskar)
